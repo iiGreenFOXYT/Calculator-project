@@ -4,4 +4,4 @@ https://iigreenfoxyt.github.io/Calculator-project/
 
 # profissional Mode
 
-soon you'ill able to switch between basic mode & profissional Mode to calculate more hard things.
+soon you'll be Able To Switch Between Basic Mode & Profissional Mode To Calculate a Difficult questions.
